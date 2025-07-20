@@ -66,11 +66,6 @@ npm run dev
 
 Visit [http://localhost:3000](http://localhost:3000) to view the portfolio and interact with the chatbot.
 
----
-
-## 📸 Screenshots
-
-> _Add screenshots or demo GIFs here to showcase your chatbot and UI._
 
 ---
 
